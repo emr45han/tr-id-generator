@@ -26,4 +26,3 @@ Step 3 - Verifying generated id: We generated id, but we need to trust it. So we
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 And, we did it! Generated a working id. After this, we writing it to a text file and doing all this 3 steps until all ids are created. And program closes.
-
