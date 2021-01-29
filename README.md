@@ -23,5 +23,7 @@ Step 2 - Generating last 2 digits: You can ask "We are generating all 9-digit nu
 
 Step 3 - Verifying generated id: We generated id, but we need to trust it. So we need to "test" it. And program checking id according to this 5 rules.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 And, we did it! Generated a working id. After this, we writing it to a text file and doing all this 3 steps until all ids are created. And program closes.
 
